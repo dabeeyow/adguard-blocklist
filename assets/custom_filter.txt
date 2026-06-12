@@ -1,0 +1,38 @@
+!
+! Title: Dabeeyow Custom DNS filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0
+! Homepage: https://github.com/dabeeyow/adguard-blocklist
+! Last modified: 2026-06-12T03:19:51.087Z
+!
+! Compiled by dabeeyow v1.0
+!
+# Honor/Huawei AppGallery & Downloads
+||appgallery.huawei.com^
+||appgallery.cloud.huawei.com^
+||apps.hicloud.com^
+||appstore.huawei.com^
+||update.hicloud.com^
+||soft.hicloud.com^
+||connectapi.hicloud.com^
+
+# Honor Download Manager backend
+||dl.hicloud.com^
+||alliances.hicloud.com^
+||apk.hicloud.com^
+||appstore-dre.hicloud.com^
+
+# HiSuite (PC sync + OTA downloads)
+||hisuite.huawei.com^
+||update.dbankcloud.com^
+||otaupdate.hicloud.com^
+
+# Huawei CDN used for app delivery
+||hwcdn.net^
+||cm.hicloud.com^
+||grs.hicloud.com^
+
+# Honor Browser
+||browser.hicloud.com^
+||search.hicloud.com^
+||dl.browser.hicloud.com^
