@@ -9,6 +9,7 @@
 !
 # Apple Store
 @@||bag.itunes.apple.com^
+@@||downloaddispatch.itunes.apple.com^
 
 # Honor/Huawei AppGallery & Downloads
 ||appgallery.huawei.com^
